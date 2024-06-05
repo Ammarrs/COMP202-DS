@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A111B43-F76D-4D79-A795-594077E19FEB}|Project1\\Project1.vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BTChatGPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A111B43-F76D-4D79-A795-594077E19FEB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\BTChatGPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A111B43-F76D-4D79-A795-594077E19FEB}|Project1\\Project1.vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A111B43-F76D-4D79-A795-594077E19FEB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\BT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTChatGPT.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BTChatGPT.cpp",
+              "RelativeDocumentMoniker": "Project1\\BTChatGPT.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BTChatGPT.cpp",
+              "RelativeToolTip": "Project1\\BTChatGPT.cpp",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAcwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T09:33:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BT.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BT.cpp",
+              "RelativeDocumentMoniker": "Project1\\BT.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\BT\\Project1\\Project1\\BT.cpp",
+              "RelativeToolTip": "Project1\\BT.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAANYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T06:20:05.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A503A4-9643-4754-8218-0274E2D48A85}|BST2\\BST2.vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19A503A4-9643-4754-8218-0274E2D48A85}|BST2\\BST2.vcxproj|solutionrelative:BST2\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A503A4-9643-4754-8218-0274E2D48A85}|BST2\\BST2.vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BT2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19A503A4-9643-4754-8218-0274E2D48A85}|BST2\\BST2.vcxproj|solutionrelative:BST2\\BT2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BST.cpp",
+              "RelativeDocumentMoniker": "BST2\\BST.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BST.cpp",
+              "RelativeToolTip": "BST2\\BST.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAcwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T12:25:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BT2.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BT2.cpp",
+              "RelativeDocumentMoniker": "BST2\\BT2.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\TREE\\TREE\\BST\\BST2\\BST2\\BT2.cpp",
+              "RelativeToolTip": "BST2\\BT2.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T10:41:56.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

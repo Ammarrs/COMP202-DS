@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BTChatGPT.cpp
+  Project1.vcxproj -> C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\BT\Project1\x64\Debug\Project1.exe

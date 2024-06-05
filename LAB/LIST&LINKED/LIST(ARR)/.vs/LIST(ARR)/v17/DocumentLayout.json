@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\LIST\u0026LINKED\\LIST(ARR)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3ABA-ECA0-42DB-95EC-065E64D8FCDD}|LIST(ARR)\\LIST(ARR).vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\LIST\u0026LINKED\\LIST(ARR)\\LIST(ARR)\\LIST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{273C3ABA-ECA0-42DB-95EC-065E64D8FCDD}|LIST(ARR)\\LIST(ARR).vcxproj|solutionrelative:LIST(ARR)\\LIST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LIST.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\LIST\u0026LINKED\\LIST(ARR)\\LIST(ARR)\\LIST.cpp",
+              "RelativeDocumentMoniker": "LIST(ARR)\\LIST.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\LIST\u0026LINKED\\LIST(ARR)\\LIST(ARR)\\LIST.cpp",
+              "RelativeToolTip": "LIST(ARR)\\LIST.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T11:56:32.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\QUEUE\\QUEUE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96192190-C53A-46C9-B92F-09148AE9FBD3}|QUEUE\\QUEUE.vcxproj|C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\QUEUE\\QUEUE\\QUEUE\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96192190-C53A-46C9-B92F-09148AE9FBD3}|QUEUE\\QUEUE.vcxproj|solutionrelative:QUEUE\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q1.cpp",
+              "DocumentMoniker": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\QUEUE\\QUEUE\\QUEUE\\Q1.cpp",
+              "RelativeDocumentMoniker": "QUEUE\\Q1.cpp",
+              "ToolTip": "C:\\AMMAR\\ammar\\ASU\\science 2nd year\\SEMESTER 2\\COMP 202 - DATA STRUCTURE\\LAB\\QUEUE\\QUEUE\\QUEUE\\Q1.cpp",
+              "RelativeToolTip": "QUEUE\\Q1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T07:25:50.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

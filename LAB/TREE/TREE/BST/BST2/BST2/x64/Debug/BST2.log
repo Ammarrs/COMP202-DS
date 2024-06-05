@@ -1,0 +1,98 @@
+﻿  BT2.cpp
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(106,11): error C2365: 'BST::root': redefinition; previous definition was 'data member'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(47,11):
+  see declaration of 'BST::root'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(108,3): error C2059: syntax error: 'return'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(108,14): error C2238: unexpected token(s) preceding ';'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,18): error C2377: 'position': redefinition; typedef cannot be overloaded with any other symbol
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(45,15):
+  see declaration of 'position'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,11): error C2146: syntax error: missing ';' before identifier 'maxnode'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,28): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,19): error C2371: 'position': redefinition; different basic types
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,2):
+  see declaration of 'position'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,28): error C2146: syntax error: missing ';' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,29): error C2059: syntax error: ')'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,31): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(74,14): error C2146: syntax error: missing ';' before identifier 'mnode'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(74,14): error C2065: 'mnode': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(75,12): error C2065: 'mnode': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(76,22): error C2065: 'mnode': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(76,5): error C2660: 'BST::remove': function does not take 1 arguments
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(67,7):
+  see declaration of 'BST::remove'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(76,5):
+  while trying to match the argument list '(node *)'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(79,14): error C2146: syntax error: missing ';' before identifier 'discard'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(79,14): error C2065: 'discard': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(86,12): error C2065: 'discard': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(86,5): error C2541: 'delete': cannot delete objects that are not pointers
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(98,12): error C2146: syntax error: missing ';' before identifier 'curr'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(98,12): error C2065: 'curr': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(99,10): error C2065: 'curr': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(101,4): error C2065: 'curr': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(101,11): error C2065: 'curr': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(103,10): error C2065: 'curr': undeclared identifier
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(111,31): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(119,7): error C2182: 'preorder': this use of 'void' is not valid
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(119,25): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(120,2): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(120,2): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(129,7): error C2182: 'inorder': this use of 'void' is not valid
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(129,24): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(130,2): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(130,2): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(138,7): error C2182: 'postorder': this use of 'void' is not valid
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(138,26): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(138,29): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(138,29): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(146,19): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(146,30): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(146,30): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(155,20): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(155,32): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(155,32): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(164,21): error C2146: syntax error: missing ')' before identifier 'p'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(164,43): error C2143: syntax error: missing ';' before '{'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(164,43): error C2447: '{': missing function header (old-style formal list?)
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(179,1): error C2059: syntax error: '}'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(179,1): error C2143: syntax error: missing ';' before '}'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(182,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(194,4): error C2039: 'inorder': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(195,4): error C2039: 'preorder': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(196,4): error C2039: 'postorder': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(198,4): error C2039: 'inorder': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(199,33): error C2039: 'size': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(201,29): error C2039: 'maxnode': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(202,33): error C2039: 'sum': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
+C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(203,56): error C2039: 'occur': is not a member of 'BST'
+  C:\AMMAR\ammar\ASU\science 2nd year\SEMESTER 2\COMP 202 - DATA STRUCTURE\LAB\TREE\TREE\BST\BST2\BST2\BT2.cpp(46,8):
+  see declaration of 'BST'
+  
